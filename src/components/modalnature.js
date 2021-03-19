@@ -16,7 +16,6 @@ const ModalOne = (props) => {
 
     const [modalIsOpen, setmodalIsOpen] = useState(false)
 
-    const modal1 = document.querySelector('.modal-first')
 
     function changeAnimation(){
       
